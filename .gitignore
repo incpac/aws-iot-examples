@@ -1,0 +1,8 @@
+certificates/
+
+pub_sub_example/secrets.h
+pub_sub_example/*.tfstate
+pub_sub_example/*.tfstate*
+pub_sub_example/.terraform/*
+pub_sub_example/.terraform*
+pub_sub_example/variables.tfvars
